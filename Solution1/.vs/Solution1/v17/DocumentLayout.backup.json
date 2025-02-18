@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikhru\\Desktop\\testapi\\ApiTest\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8C8AE2-8395-4583-B2EB-5A6EED229875}|..\\Api.csproj|c:\\users\\nikhru\\desktop\\testapi\\apitest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8C8AE2-8395-4583-B2EB-5A6EED229875}|..\\Api.csproj|c:\\users\\nikhru\\desktop\\testapi\\apitest\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8C8AE2-8395-4583-B2EB-5A6EED229875}|..\\Api.csproj|c:\\users\\nikhru\\desktop\\testapi\\apitest\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\testapi\\ApiTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\testapi\\ApiTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T16:15:03.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\testapi\\ApiTest\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\testapi\\ApiTest\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:04:06.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Nikhru\\Desktop\\testapi\\ApiTest\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "..\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\Nikhru\\Desktop\\testapi\\ApiTest\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "..\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T16:03:50.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
