@@ -2,11 +2,11 @@
 
 namespace Api.Controllers
 {
-    public class ApiController : Controller
+    [Route("api/tickets")]
+    [ApiController]
+    public class ApiController : ControllerBase
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+
+        
     }
 }
