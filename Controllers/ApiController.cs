@@ -23,13 +23,25 @@ namespace Api.Controllers
         [HttpGet("{id:int}")]
         public ActionResult<IEnumerable<Ticket>> GetTickets(int id)
         {
-           var tickets = _db.Tickets.Where(t=>t.UserId == id).ToList();
-            if(tickets==null && tickets.Count==0)
+            var tickets = _db.Tickets.Where(t => t.UserId == id).ToList();
+            if (tickets == null && tickets.Count == 0)
             {
                 return NotFound();
             }
             return Ok(tickets);
-            
+
+        }
+
+        [HttpPost("user")]
+        public ActionResult<User> LoginUser(User user)
+        {
+            var ExistingUser = _db.Users.FirstOrDefault(u=>u.UserName == user.UserName && u.Password == user.Password);
+            if (ExistingUser == null)
+            {
+                return NotFound();
+            }
+            return Ok(ExistingUser);
+
         }
 
         [HttpPost]
